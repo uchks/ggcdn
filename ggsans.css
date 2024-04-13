@@ -1,0 +1,136 @@
+/* 
+* gg sans
+* Designed by Colophon Foundry
+*/
+
+/* 
+* Normal
+* © Copyright © June 2023 Discord Inc.
+*/
+@font-face {
+  font-family: "gg sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://discord.com/assets/80bebfd30fcab0b986b9.woff2") format("woff2");
+}
+
+/* 
+* Normal Italic
+* © Copyright © October 2023 Discord Inc.
+*/
+@font-face {
+  font-family: "gg sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("https://discord.com/assets/c7ee0cb6a022a4ec6014.woff2") format("woff2");
+}
+
+/* 
+* Medium
+* © Copyright © June 2023 Discord Inc.
+*/
+@font-face {
+  font-family: "gg sans";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://discord.com/assets/04bca5e801a9fcbfc3aa.woff2") format("woff2");
+}
+
+/* 
+* Medium Italic
+* © Copyright © October 2023 Discord Inc.
+*/
+@font-face {
+  font-family: "gg sans";
+  font-style: italic;
+  font-weight: 500;
+  src: url("https://discord.com/assets/02cc3c9536c9375ab76d.woff2") format("woff2");
+}
+
+/* 
+* SemiBold 
+* © Copyright © June 2023 Discord Inc.
+*/
+@font-face {
+  font-family: "gg sans";
+  font-style: normal;
+  font-weight: 600;
+  src: url("https://discord.com/assets/75ba5f0f601173633474.woff2") format("woff2");
+}
+
+/* 
+* SemiBold Italic
+* © Copyright © October 2023 Discord Inc.
+*/
+@font-face {
+  font-family: "gg sans";
+  font-style: italic;
+  font-weight: 600;
+  src: url("https://discord.com/assets/2e5557c485f515e42c32.woff2") format("woff2");
+}
+
+/* 
+* Bold 
+* © Copyright © June 2023 Discord Inc.
+*/
+@font-face {
+  font-family: "gg sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://discord.com/assets/7e44a0c40cf9f5ad8851.woff2") format("woff2");
+}
+
+/* 
+* Bold Italic
+* © Copyright © October 2023 Discord Inc.
+*/
+@font-face {
+  font-family: "gg sans";
+  font-style: italic;
+  font-weight: 700;
+  src: url("https://discord.com/assets/40d43fa876b60783aaf0.woff2") format("woff2");
+}
+
+/* 
+* ExtraBold
+* © Copyright © June 2023 Discord Inc.
+*/
+@font-face {
+  font-family: "gg sans";
+  font-style: normal;
+  font-weight: 800;
+  src: url("https://discord.com/assets/6be494f6834de299bf2b.woff2") format("woff2");
+}
+
+/* 
+* ExtraBold Italic
+* © Copyright © October 2023 Discord Inc.
+*/
+@font-face {
+  font-family: "gg sans";
+  font-style: italic;
+  font-weight: 800;
+  src: url("https://discord.com/assets/21ce747ad35d0446bd97.woff2") format("woff2");
+}
+
+/* 
+* Mono 
+* © Copyright © October 2023 Discord Inc.
+*/
+@font-face {
+  font-family: "gg mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://discord.com/assets/f6eace1eb4856b2b3c69.woff2") format("woff2");
+}
+
+/* 
+* Mono Bold 
+* © Copyright © October 2023 Discord Inc.
+*/
+@font-face {
+  font-family: "gg mono";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://discord.com/assets/c5329cfa5c42790bde45.woff2") format("woff2");
+}
