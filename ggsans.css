@@ -11,7 +11,7 @@
   font-family: "gg sans";
   font-style: normal;
   font-weight: 400;
-  src: url("https://discord.com/assets/80bebfd30fcab0b986b9.woff2") format("woff2");
+  src: url("https://unethicalcdn.com/ggcdn/gg-sans-normal-400.woff2") format("woff2");
 }
 
 /* 
@@ -22,7 +22,7 @@
   font-family: "gg sans";
   font-style: italic;
   font-weight: 400;
-  src: url("https://discord.com/assets/c7ee0cb6a022a4ec6014.woff2") format("woff2");
+  src: url("https://unethicalcdn.com/ggcdn/gg-sans-italic-400.woff2") format("woff2");
 }
 
 /* 
@@ -33,7 +33,7 @@
   font-family: "gg sans";
   font-style: normal;
   font-weight: 500;
-  src: url("https://discord.com/assets/04bca5e801a9fcbfc3aa.woff2") format("woff2");
+  src: url("https://unethicalcdn.com/ggcdn/gg-sans-normal-500.woff2") format("woff2");
 }
 
 /* 
@@ -44,7 +44,7 @@
   font-family: "gg sans";
   font-style: italic;
   font-weight: 500;
-  src: url("https://discord.com/assets/02cc3c9536c9375ab76d.woff2") format("woff2");
+  src: url("https://unethicalcdn.com/ggcdn/gg-sans-italic-500.woff2") format("woff2");
 }
 
 /* 
@@ -55,7 +55,7 @@
   font-family: "gg sans";
   font-style: normal;
   font-weight: 600;
-  src: url("https://discord.com/assets/75ba5f0f601173633474.woff2") format("woff2");
+  src: url("https://unethicalcdn.com/ggcdn/gg-sans-normal-600.woff2") format("woff2");
 }
 
 /* 
@@ -66,7 +66,7 @@
   font-family: "gg sans";
   font-style: italic;
   font-weight: 600;
-  src: url("https://discord.com/assets/2e5557c485f515e42c32.woff2") format("woff2");
+  src: url("https://unethicalcdn.com/ggcdn/gg-sans-italic-600.woff2") format("woff2");
 }
 
 /* 
@@ -77,7 +77,7 @@
   font-family: "gg sans";
   font-style: normal;
   font-weight: 700;
-  src: url("https://discord.com/assets/7e44a0c40cf9f5ad8851.woff2") format("woff2");
+  src: url("https://unethicalcdn.com/ggcdn/gg-sans-normal-700.woff2") format("woff2");
 }
 
 /* 
@@ -88,7 +88,7 @@
   font-family: "gg sans";
   font-style: italic;
   font-weight: 700;
-  src: url("https://discord.com/assets/40d43fa876b60783aaf0.woff2") format("woff2");
+  src: url("https://unethicalcdn.com/ggcdn/gg-sans-italic-700.woff2") format("woff2");
 }
 
 /* 
@@ -99,7 +99,7 @@
   font-family: "gg sans";
   font-style: normal;
   font-weight: 800;
-  src: url("https://discord.com/assets/6be494f6834de299bf2b.woff2") format("woff2");
+  src: url("https://unethicalcdn.com/ggcdn/gg-sans-normal-800.woff2") format("woff2");
 }
 
 /* 
@@ -110,7 +110,7 @@
   font-family: "gg sans";
   font-style: italic;
   font-weight: 800;
-  src: url("https://discord.com/assets/21ce747ad35d0446bd97.woff2") format("woff2");
+  src: url("https://unethicalcdn.com/ggcdn/gg-sans-italic-800.woff2") format("woff2");
 }
 
 /* 
@@ -121,7 +121,7 @@
   font-family: "gg mono";
   font-style: normal;
   font-weight: 400;
-  src: url("https://discord.com/assets/f6eace1eb4856b2b3c69.woff2") format("woff2");
+  src: url("https://unethicalcdn.com/ggcdn/gg-mono-normal-400.woff2") format("woff2");
 }
 
 /* 
@@ -132,5 +132,23 @@
   font-family: "gg mono";
   font-style: normal;
   font-weight: 700;
-  src: url("https://discord.com/assets/c5329cfa5c42790bde45.woff2") format("woff2");
+  src: url("https://unethicalcdn.com/ggcdn/gg-mono-normal-700.woff2") format("woff2");
+}
+
+* {
+    font-family: "gg sans", sans-serif;
+}
+
+h1 { font-weight: 800; } /* ExtraBold */
+h2 { font-weight: 700; } /* Bold */
+h3 { font-weight: 600; } /* SemiBold */
+h4 { font-weight: 500; } /* Medium */
+p { font-weight: 400; }  /* Normal */
+
+.mono {
+    font-family: "gg mono", monospace;
+}
+
+.italic {
+    font-style: italic;
 }
